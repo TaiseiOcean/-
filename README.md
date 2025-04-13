@@ -10,4 +10,4 @@ Blowcurrent_profile.py : 潮止まりの時の流速鉛直プロファイル
 
 wave_height.py : 有義波高のグラフ作成
 
-wave_direction.py : 波向のグラフ作成
+wave_direction.py : 波向のグラフ作成(北を0°)
